@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Data & Logs
+train_logs/
+eval_logs/
+ebm_results/
+bimanual_results/
+zarr_datasets/
+*.log
+*.pth
+*.pt
+pretrain_unimanual/
+
+# Media (except fig/)
+*.png
+*.jpg
+*.mp4
+!fig/*
+
+# Misc
+wandb/
+temp/
+*.npy
+*.pkl
+.mypy_cache/
+.cache/
+test_cleanup.py
