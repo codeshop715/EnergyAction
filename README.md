@@ -252,10 +252,10 @@ Our implementation is mainly based on the following codebases. We gratefully tha
 ## Citation
 
 ```bibtex
-@inproceedings{energyaction2026,
+@article{energyaction2026,
   title={EnergyAction: Energy-Based Compositional Flow Matching for Bimanual Manipulation},
-  author={Mingchen Song, Xiang Deng, Jie Wei,  Dongmei Jiang,  Liqiang Nie, Weili Guan},
-  booktitle={},
+  author={Song, Mingchen and Deng, Xiang and Wei, Jie and Jiang, Dongmei and Nie, Liqiang and Guan, Weili},
+  journal={arXiv preprint arXiv:2603.20236},
   year={2026}
 }
 ```
