@@ -10,7 +10,7 @@
 ## 📢 Updates
 
 - [03/2026] 🔥 Code and pretrained models are released.
-- [03/2026] 📄 <a href="https://arxiv.org/abs/XXXX.XXXXX">arXiv</a> paper released.
+- [03/2026] 📄 <a href="[https://arxiv.org/abs/XXXX.XXXXX](https://arxiv.org/abs/2603.20236)">arXiv</a> paper released.
 ## Introduction
 
 We propose **EnergyAction**, a framework that compositionally transfers pre-trained unimanual manipulation policies to bimanual tasks via Energy-Based Models (EBMs). By modeling each arm's policy as an energy function and composing them through energy summation, EnergyAction generates coordinated dual-arm actions with temporal coherence and collision avoidance — requiring only minimal bimanual demonstration data. 
